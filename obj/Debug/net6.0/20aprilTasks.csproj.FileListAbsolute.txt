@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\bin\Debug\net6.0\20aprilTasks.exe
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\bin\Debug\net6.0\20aprilTasks.deps.json
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\bin\Debug\net6.0\20aprilTasks.runtimeconfig.json
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\bin\Debug\net6.0\20aprilTasks.dll
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\bin\Debug\net6.0\20aprilTasks.pdb
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.dll
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\refint\20aprilTasks.dll
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.pdb
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\20aprilTasks.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\20aprilTasks\20aprilTasks\obj\Debug\net6.0\ref\20aprilTasks.dll
